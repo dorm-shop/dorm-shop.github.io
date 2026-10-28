@@ -1,0 +1,9 @@
+main:
+  - title: "Home"
+    url: /
+  - title: "Workshop"
+    url: /workshop/
+  - title: "Program"
+    url: /program/
+  - title: "People"
+    url: /people/

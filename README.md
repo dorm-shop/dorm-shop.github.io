@@ -2,6 +2,8 @@
 
 Website for *A unifying framework for dormancy across scales*, May 11–13, 2027.
 
+The site header reads "DormShop". The homepage has no call-to-action buttons and its second paragraph uses plain text. The Workshop and People pages include the ASM address and both co-organizers, respectively.
+
 ## Upload to GitHub
 
 Add the **contents** of this package (including the folders beginning with `_`) to the root of `dorm-shop/dorm-shop.github.io`. Keep the existing `LICENSE`; replace the starter `README.md`. GitHub Pages is already configured to publish from `main` and `/(root)`.

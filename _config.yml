@@ -10,6 +10,8 @@ markdown: kramdown
 plugins:
   - jekyll-remote-theme
   - jekyll-include-cache
+include:
+  - _pages
 defaults:
   - scope:
       path: ""

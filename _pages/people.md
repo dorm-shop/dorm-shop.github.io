@@ -13,4 +13,10 @@ Department of Biology, Indiana University
 Entomology and Nematology Department, University of Florida  
 [dahahn@ufl.edu](mailto:dahahn@ufl.edu)
 
-Additional participants will be listed as participation is confirmed.
+## Partner
+
+**Veronica Garcia**
+
+## Participants
+
+The participant list will be added as participation is confirmed.

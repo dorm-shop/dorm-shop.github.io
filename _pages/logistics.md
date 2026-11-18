@@ -6,11 +6,9 @@ permalink: /logistics/
 ## When and where
 
 **May 11–13, 2027**  
-American Society for Microbiology (ASM) headquarters  
+ASM headquarters  
 1752 N St. NW  
 Washington, DC 20036
-
-The workshop is NSF-sponsored and convenes researchers studying dormancy across diverse organisms, disciplines, and biological scales.
 
 ## Location map
 
@@ -18,11 +16,10 @@ The workshop is NSF-sponsored and convenes researchers studying dormancy across 
 
 ## Hotels
 
-Participants will stay at one of these hotels:
+Participants will stay at one of two hotels, which are a short walk from ASM headquarters:
 
-- **[Courtyard by Marriott Washington, DC Dupont Circle](https://www.google.com/maps/search/?api=1&query=Courtyard%20by%20Marriott%20Washington%20DC%20Dupont%20Circle%2C%201733%20N%20St%20NW%2C%20Washington%2C%20DC%2020036)** — 1733 N St NW, Washington, DC 20036.
-- **[The Beacon at Embassy Row](https://www.beaconhotelwdc.com/)** — [1615 Rhode Island Ave NW, Washington, DC 20036](https://www.google.com/maps/search/?api=1&query=The%20Beacon%20at%20Embassy%20Row%2C%201615%20Rhode%20Island%20Ave%20NW%2C%20Washington%2C%20DC%2020036).
+- **[Courtyard by Marriott Washington, DC Dupont Circle](https://www.google.com/maps/search/?api=1&query=Courtyard%20by%20Marriott%20Washington%20DC%20Dupont%20Circle%2C%201733%20N%20St%20NW%2C%20Washington%2C%20DC%2020036)** — 1733 N St NW, Washington, DC 20036
+- **[The Beacon at Embassy Row](https://www.beaconhotelwdc.com/)** — 1615 Rhode Island Ave NW, Washington, DC 20036
 
 Further arrival and travel details will be shared as plans are finalized.
 
-For questions, contact [Jay T. Lennon](mailto:lennonj@iu.edu) or [Daniel A. Hahn](mailto:dahahn@ufl.edu).

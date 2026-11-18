@@ -9,7 +9,8 @@ header:
 excerpt: "May 11–13, 2027 · Washington, DC"
 ---
 
-From seeds and microbes to insects and mammals, organisms use dormancy to survive periods when conditions are unfavorable for growth or reproduction. Dormancy can slow development and metabolism, improve survival, and shape populations and ecosystems. Yet researchers working in different systems often use different terms and models for closely related processes.
+From seeds and microbes to insects and mammals, organisms use dormancy to survive periods when conditions are unfavorable for growth or reproduction. Dormancy can slow development and metabolism, improve survival, and shape populations and ecosystems. By pusghing the "pause button" of life, dormancy stores information and creates memory, which can influence the behavior and dynamics of natural and managed sytems.
 
-A unifying framework for dormancy across scales brings researchers together to develop shared language for dormancy, connect existing models, and identify priorities for research across biological scales. This NSF-sponsored workshop will also explore how a deeper understanding of dormancy can address challenges in agriculture, medicine, and other areas. The in-person meeting will take place May 11–13, 2027, at the American Society for Microbiology headquarters in Washington, DC.
+A unifying framework for dormancy across scales brings researchers together to develop shared language for dormancy, connect existing models, and identify priorities for research across biological scales. 
 
+This NSF-sponsored in-person workshop will also explore how a deeper understanding of dormancy can address challenges in agriculture, medicine, and other areas. 

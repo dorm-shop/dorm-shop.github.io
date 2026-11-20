@@ -15,4 +15,4 @@ The workshop will bring researchers together to:
 
 ## Expected outcomes
 
-Participants will identify research priorities and launch collaborative writing projects, including publicly accessible white papers. These products will bring together insights across organisms and scales, clarify what we know about the regulation and consequences of dormancy, and set an agenda for future research and technological development. Materials produced through the workshop will be posted here.
+Participants will identify research priorities and launch collaborative writing projects, including publicly accessible white papers. These products will bring together insights across organisms and scales, clarify what we know about the regulation and consequences of dormancy, and set an agenda for future research and technological development. 
